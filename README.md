@@ -1,2 +1,2 @@
-# miimi
-Miimi Case Study
+# historia
+Historia Case Study
